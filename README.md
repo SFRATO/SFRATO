@@ -3,6 +3,6 @@
 ## ABOUT ME ✍️
 I am a Biochemistry student learning R Programming to aide in my research! Excellent analytic skills with a proficiency in Biochemical Methods 👍
 ## SOCIALS 😄
-![https://www.linkedin.com/in/steven-frato-a21371135/](https://www.linkedin.com/in/steven-frato-a21371135/)
+![https://www.linkedin.com/in/steven-frato-a21371135/](https://raw.githubusercontent.com/SFRATO/SFRATO/main/Custom%20dimensions%20100x50%20px%20-%20Custom%20dimensions.jpeg)
 
 ![https://twitter.com/fratosteven](https://raw.githubusercontent.com/SFRATO/SFRATO/main/Custom%20dimensions%20100x50%20px%20-%20Custom%20dimensions.png)
