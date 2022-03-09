@@ -4,7 +4,7 @@
 
 ### ABOUT ME ✍️   
 
-I am a Biochemistry student learning R Programming to aide in my research! Excellent analytic skills and proficient in Biochemical Methods
+I am a Biochemistry student learning R Programming to aide in my research! Excellent analytic skills and proficient in Biochemical Methods 👍
 
 ### SOCIALS 📱
 
