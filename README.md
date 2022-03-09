@@ -1,6 +1,6 @@
 ![](Email%20Header%20600x200%20px%20-%20Custom%20dimensions%20(1).png)
 
-# HELLO WORLD 🌎
+# HELLO WORLD 🌎 👋
 
 ### ABOUT ME ✍️   
 
